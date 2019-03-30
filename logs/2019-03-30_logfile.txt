@@ -1,0 +1,103 @@
+2019-03-30 09:10:04.2770 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 09:48:58.3312 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 09:56:37.7568 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Delete those accounts first
+2019-03-30 09:57:26.0242 ERROR Cannot delete owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6. It has related accounts. Delete those accounts first
+2019-03-30 12:37:06.8015 INFO Returned all owners from database.
+2019-03-30 12:38:11.2488 INFO Returned all owners from database.
+2019-03-30 12:38:54.8581 INFO Returned all owners from database.
+2019-03-30 12:39:34.1667 INFO Returned all owners from database.
+2019-03-30 12:39:48.2046 INFO Returned all owners from database.
+2019-03-30 12:41:15.0851 INFO Returned all owners from database.
+2019-03-30 12:42:26.1747 INFO Returned all owners from database.
+2019-03-30 12:43:14.1690 INFO Returned all owners from database.
+2019-03-30 12:44:27.6755 INFO Returned all owners from database.
+2019-03-30 12:47:06.6643 INFO Returned all owners from database.
+2019-03-30 12:47:26.5860 INFO Returned all owners from database.
+2019-03-30 12:47:36.2786 INFO Returned all owners from database.
+2019-03-30 12:47:40.5943 INFO Returned all owners from database.
+2019-03-30 13:07:55.4900 INFO Returned all owners from database.
+2019-03-30 13:08:38.0249 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 13:08:50.0638 INFO Returned all owners from database.
+2019-03-30 13:10:17.0102 INFO Returned all owners from database.
+2019-03-30 13:10:42.8752 INFO Returned all owners from database.
+2019-03-30 13:12:54.1768 INFO Returned all owners from database.
+2019-03-30 13:13:13.4518 INFO Returned all owners from database.
+2019-03-30 13:18:10.3665 INFO Returned all owners from database.
+2019-03-30 13:18:11.1974 INFO Returned all owners from database.
+2019-03-30 13:22:18.9801 INFO Returned all owners from database.
+2019-03-30 13:22:19.2846 INFO Returned all owners from database.
+2019-03-30 13:24:18.7365 INFO Returned all owners from database.
+2019-03-30 13:25:44.6817 INFO Returned all owners from database.
+2019-03-30 13:49:53.5649 INFO Returned all owners from database.
+2019-03-30 13:58:05.9888 INFO Returned all owners from database.
+2019-03-30 13:59:33.5698 INFO Returned all owners from database.
+2019-03-30 14:01:25.4739 INFO Returned all owners from database.
+2019-03-30 14:01:45.2553 INFO Returned all owners from database.
+2019-03-30 14:50:25.5572 INFO Returned all owners from database.
+2019-03-30 14:50:38.6736 INFO Returned all owners from database.
+2019-03-30 14:50:48.5521 INFO Returned all owners from database.
+2019-03-30 14:50:58.3627 INFO Returned all owners from database.
+2019-03-30 14:51:15.1842 INFO Returned all owners from database.
+2019-03-30 14:51:21.9559 INFO Returned all owners from database.
+2019-03-30 14:53:24.1682 INFO Returned all owners from database.
+2019-03-30 15:00:59.6674 INFO Returned all owners from database.
+2019-03-30 15:01:15.3133 INFO Returned all owners from database.
+2019-03-30 15:01:51.8563 INFO Returned all owners from database.
+2019-03-30 15:02:15.5590 INFO Returned all owners from database.
+2019-03-30 15:03:56.9405 INFO Returned all owners from database.
+2019-03-30 15:04:05.6796 INFO Returned all owners from database.
+2019-03-30 15:05:28.9436 INFO Returned all owners from database.
+2019-03-30 15:06:11.4476 INFO Returned all owners from database.
+2019-03-30 15:06:16.1593 INFO Returned all owners from database.
+2019-03-30 15:06:57.2385 INFO Returned all owners from database.
+2019-03-30 15:07:10.0324 INFO Returned all owners from database.
+2019-03-30 15:07:41.4292 INFO Returned all owners from database.
+2019-03-30 15:07:44.0547 INFO Returned all owners from database.
+2019-03-30 15:08:03.3468 INFO Returned all owners from database.
+2019-03-30 15:08:16.0395 INFO Returned all owners from database.
+2019-03-30 15:08:18.2769 INFO Returned all owners from database.
+2019-03-30 15:08:19.3570 INFO Returned all owners from database.
+2019-03-30 15:08:20.8900 INFO Returned all owners from database.
+2019-03-30 15:09:11.4675 INFO Returned all owners from database.
+2019-03-30 15:09:16.0327 INFO Returned all owners from database.
+2019-03-30 15:09:33.2796 INFO Returned all owners from database.
+2019-03-30 15:11:45.1808 INFO Returned all owners from database.
+2019-03-30 15:12:02.8122 INFO Returned all owners from database.
+2019-03-30 15:13:14.0565 INFO Returned all owners from database.
+2019-03-30 15:15:14.4102 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 15:17:34.2994 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 15:18:39.3233 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 15:18:51.5958 INFO Returned all owners from database.
+2019-03-30 15:18:55.8101 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:19:07.4999 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:19:22.0242 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:20:11.0640 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:20:26.2800 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:26:14.4599 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:26:21.6759 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:26:34.5104 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 15:28:35.6683 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-03-30 16:00:17.3603 INFO Returned all owners from database.
+2019-03-30 16:00:46.9380 INFO Returned all owners from database.
+2019-03-30 16:01:51.5493 INFO Returned all owners from database.
+2019-03-30 16:01:54.2980 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-30 16:01:57.4315 INFO Returned all owners from database.
+2019-03-30 16:03:44.3204 INFO Returned all owners from database.
+2019-03-30 16:05:20.6362 INFO Returned all owners from database.
+2019-03-30 16:05:50.8947 INFO Returned all owners from database.
+2019-03-30 16:58:16.4459 INFO Returned all owners from database.
+2019-03-30 17:02:45.3496 INFO Returned all owners from database.
+2019-03-30 17:02:49.2301 INFO Returned all owners from database.
+2019-03-30 17:03:13.0691 INFO Returned all owners from database.
+2019-03-30 17:16:28.5548 INFO Returned all owners from database.
+2019-03-30 17:16:32.2179 INFO Returned all owners from database.
+2019-03-30 17:17:02.9611 INFO Returned all owners from database.
+2019-03-30 17:17:53.8639 INFO Returned all owners from database.
+2019-03-30 17:29:23.9410 INFO Returned all owners from database.
+2019-03-30 17:29:36.4083 INFO Returned all owners from database.
+2019-03-30 17:32:44.2292 INFO Returned all owners from database.
+2019-03-30 17:33:26.8765 INFO Returned all owners from database.
+2019-03-30 20:05:35.5042 INFO Returned all owners from database.
+2019-03-30 20:45:56.5334 INFO Returned all owners from database.
+2019-03-30 20:46:55.4130 INFO Returned all owners from database.
+2019-03-30 20:47:20.1245 INFO Returned all owners from database.

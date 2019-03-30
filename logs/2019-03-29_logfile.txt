@@ -1,0 +1,19 @@
+2019-03-29 18:57:24.3163 INFO Here is info message from our values controller.
+2019-03-29 18:57:24.3483 DEBUG Here is debug message from our values controller.
+2019-03-29 18:57:24.3483 WARN Here is warn message from our values controller.
+2019-03-29 18:57:24.3483 ERROR Here is error message from our values controller.
+2019-03-29 21:08:53.1342 DEBUG All ownered loaded from db: Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[Entities.Models.Owner]
+2019-03-29 21:10:00.8166 DEBUG All ownered loaded from db: Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[Entities.Models.Owner]
+2019-03-29 21:11:08.0133 DEBUG All ownered loaded from db: Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[Entities.Models.Owner]
+2019-03-29 21:39:01.1776 DEBUG All ownered loaded from db: Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[Entities.Models.Owner]
+2019-03-29 21:41:22.2261 DEBUG All ownered loaded from db: [{"OwnerId":"24fd81f8-d58a-4bcc-9f35-dc6cd5641906","Name":"John Keen","DateOfBirth":"1980-12-05T00:00:00","Address":"61 Wellfield Road"},{"OwnerId":"261e1685-cf26-494c-b17c-3546e65f5620","Name":"Anna Bosh","DateOfBirth":"1974-11-14T00:00:00","Address":"27 Colored Row"},{"OwnerId":"a3c1880c-674c-4d18-8f91-5d3608a2c937","Name":"Sam Query","DateOfBirth":"1990-04-22T00:00:00","Address":"91 Western Roads"},{"OwnerId":"f98e4d74-0f68-4aac-89fd-047f1aaca6b6","Name":"Martin Miller","DateOfBirth":"1983-05-21T00:00:00","Address":"3 Edgar Buildings"}]
+2019-03-29 22:14:55.6289 INFO Returned all owners from database.
+2019-03-29 22:18:54.1434 INFO Returned all owners from database.
+2019-03-29 22:22:59.6631 INFO Returned all owners from database.
+2019-03-29 22:23:23.0826 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5620, hasn't been found in db.
+2019-03-29 22:24:03.4730 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5620, hasn't been found in db.
+2019-03-29 22:25:15.5406 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5620, hasn't been found in db.
+2019-03-29 22:26:42.1598 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-29 22:29:58.7840 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5625, hasn't been found in db.
+2019-03-29 22:38:10.5876 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-03-29 22:38:10.5876 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
